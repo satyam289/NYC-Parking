@@ -6,16 +6,6 @@
 * **Open ./notebooks/nyc_parking_analysis.ipynb file to run the code**
 
 
-MTech Mini Project
-
-IISC | M.Tech
-Mentor: **Yogesh Simmhan**
-
-## TEAM
-
-1. Satyam Kumar
-
-
 ## PROBLEM
 
 
@@ -119,18 +109,6 @@ Metrics
 → Use Google Colab
 → Ability to complete data analysis for 10M records within 1 hour
 ```
-
-## TIMELINE
-
-* Week 1 : Download and understand the data & format
-* Week 2 : Data Preprocessing
-* Week 3 : Basic Analysis & Precinct based Analysis
-* Week 4 : Time based Analysis
-* Week 5 : Year / Season based Analysis
-* Week 6 : Revenue based Analysis
-* Week 7 : Evaluation
-* Week 8 : Analysis and report writing
-
 
 ## THANKS!
 
